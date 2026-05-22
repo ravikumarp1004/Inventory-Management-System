@@ -9,7 +9,7 @@ The system intelligently manages inventory operations through a modern web dashb
 The application automatically synchronizes frontend inventory data with Google Sheets and enables intelligent operations such as product updates, inventory analytics, stock management, product deletion, and audit tracking.
 
 > **Live Preview:** https://paint-inventory-ai-hub.lovable.app
-> **Stack:** · n8n · API Integration · Webhook · LLM · AI Orchestration · Google Sheets
+> **Stack:** · n8n · API Integration · Webhook · LLM · AI Orchestration · Lovable AI
 
 ---
 
