@@ -1,5 +1,5 @@
 const WEBHOOK_URL =
-  "https://n8n-w19c.srv1635273.hstgr.cloud/webhook/1f082714-3070-4b60-948e-84dc91c82f6b/chat";
+  //"https://n8n..../chat";
 
 const SESSION_ID = "paint-inventory-session";
 
