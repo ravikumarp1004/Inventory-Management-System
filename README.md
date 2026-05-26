@@ -42,25 +42,23 @@ Fast operational workflows
 
 This project automates the entire inventory management workflow using:
 
-AI powered natural language processing
-n8n workflow automation
-Google Sheets as centralized inventory storage
-Frontend dashboard for visualization
-Webhook based API integration
-Real time inventory synchronization
+- AI powered natural language processing
+- n8n workflow automation
+- Google Sheets as centralized inventory storage
+- Frontend dashboard for visualization
+- Webhook based API integration
+- Real time inventory synchronization
 
 The system allows users to:
 
-View live inventory metrics
-Search and filter products
-Add products using AI
-Update stock quantities
-Remove products safely
-Generate inventory summaries
-Track inventory analytics
-Maintain audit logs automatically
-
----
+- View live inventory metrics
+- Search and filter products
+- Add products using AI
+- Update stock quantities
+- Remove products safely
+- Generate inventory summaries
+- Track inventory analytics
+- Maintain audit logs automatically
 
 * Manual inventory updates: ~2–3 hours/week -> reduced to under 15 minutes (AI handles queries, updates, deletions)
 * Human error in stock entry: eliminated for SKU-based operations (exact match deletion prevents wrong-row accidents)
