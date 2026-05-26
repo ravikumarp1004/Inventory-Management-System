@@ -60,9 +60,9 @@ The system allows users to:
 - Track inventory analytics
 - Maintain audit logs automatically
 
-> Manual inventory updates: ~2–3 hours/week -> reduced to under 15 minutes (AI handles queries, updates, deletions)
-> Human error in stock entry: eliminated for SKU-based operations (exact match deletion prevents wrong-row accidents)
-> Time to answer "what's our low stock?" - from checking spreadsheet manually (~5 min)-> instant via AI chat
+> Manual inventory updates: ~2–3 hours/week -> reduced to under 15 minutes (AI handles queries, updates, deletions) <br>
+> Human error in stock entry: eliminated for SKU-based operations (exact match deletion prevents wrong-row accidents) <br>
+> Time to answer "what's our low stock?" - from checking spreadsheet manually (~5 min)-> instant via AI chat <br>
 > Audit trail: 0% manual logging before -> 100% automatic after every AI action
 
 Why chosen: Google Sheets is already what small business owners use. No migration needed, just intelligence on top.
