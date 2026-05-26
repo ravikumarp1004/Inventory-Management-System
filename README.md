@@ -60,6 +60,7 @@ Generate inventory summaries
 Track inventory analytics
 Maintain audit logs automatically
 
+---
 
 * Manual inventory updates: ~2–3 hours/week -> reduced to under 15 minutes (AI handles queries, updates, deletions)
 * Human error in stock entry: eliminated for SKU-based operations (exact match deletion prevents wrong-row accidents)
